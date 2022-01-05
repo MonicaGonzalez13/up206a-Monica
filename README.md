@@ -13,7 +13,7 @@ This course focuses on on introducing the foundations of spatial data that inclu
 * Expand on proffesional skills.
 * Be able to evaluate data using computer programming techniques. 
 
-## Project Class ideas
+## Project Class Ideas
 * See the relantionship between oil wells and asthma rates in Los Angeles communities. 
 * Compare rent prices to type of public transit that is avalaible (i.e.  Does income effect the type of public transit (metro or bus) readily avalible to a communities?)
 * Map car accidents/collisions in LA to see if there are certain locations that are accident prone, and approaches to lowering likelihood of car collisions (i.e. signage, traffic systems, installing camera, etc.)
