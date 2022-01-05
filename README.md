@@ -4,7 +4,7 @@
 
 Hi my name is Monica Gonzalez and I am a first year MURP student with a focus in TPP. I am intrested in the intersection between pblic transit, social justice, and environmentalism. I am California native from Ventura County where I previously worked with a local non-profit to educate and give tools to enviromental justice communities to become invlove in local policy decision-making with issues sorrounding air quality. I enjoy trying new foods and discovering new places to eat, hiking, and listening to live music.
 
-## Course Descritpion 
+## Course Description 
 This course focuses on on introducing the foundations of spatial data that includes an introduction to Python, and many tools avalaible through this program. The course includes the use of real world data and how to analytically approach urban planning issues. Some of the assignments are especially design to critically think about these issues, and contribute to possible remediations. 
 
 ## My Objectives for the Course
